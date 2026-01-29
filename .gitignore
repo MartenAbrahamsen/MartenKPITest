@@ -1,0 +1,33 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+
+# Go
+bin/
+
+# Build
+dist/
+build/
+
+# Editor/IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Mac
+.DS_Store
+
+# Temp
+*.swp
+
+# Packages
+*.tgz
